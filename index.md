@@ -4,7 +4,7 @@ Description: CTBA course content
 ---
 
 
-![Pete Otchere](/Pete.jpg) 
+![Pete Otchere](pete8551.github.io/Pete.jpg) 
 
 This content has been developed for WM CTBA course.
 -  [Graph basics](/Graph_Basics/index.md) 
@@ -12,4 +12,6 @@ This content has been developed for WM CTBA course.
 This is a sample report from made with Power BI
 -  [Sample report](/pete8551/Report)
  
+
+See You Tube link for tips!
 [![10 tips for learning Python](https://img.youtube.com/vi/xsEXpzsLsc0.jpg)](http://www.youtube.com/watch?v=xsEXpzsLsc0)
