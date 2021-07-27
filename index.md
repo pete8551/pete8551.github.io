@@ -1,6 +1,6 @@
 ---
-My Website
-CTBA course content
+Title: My Website
+Description: CTBA course content
 ---
 
 This content has been developed for WM CTBA course.
