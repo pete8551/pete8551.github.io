@@ -6,7 +6,7 @@ Description: CTBA course content
 
 
 
-![Pete Otchere](pete8551.github.io/Pete.JPG) 
+![Pete Otchere](/Pete.JPG) 
 
 
 
