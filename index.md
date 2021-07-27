@@ -9,4 +9,7 @@ Description: CTBA course content
 
 This content has been developed for WM CTBA course.
 -  [Graph basics](/Graph_Basics/index.md) 
+
+This is a sample report from made with Power BI
 -  [Sample report](/pete8551/Report)
+ 
